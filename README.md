@@ -28,8 +28,8 @@ A secure and scalable file upload service built with FastAPI, PostgreSQL, and Mi
 ### Installation
 1. Clone the repository:
 ```bash
-git  clone  <repository-url>
-cd  <repository-directory>
+git  clone https://github.com/ameer611/upload_file_task
+cd upload_file_task
 ```
 2. Start the services using Docker Compose:
 ```bash
